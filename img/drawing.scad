@@ -1,0 +1,32 @@
+union () { 
+translate([0,0,0]) cube([1,1,1]);
+translate([0,1,0]) cube([1,1,1]);
+translate([0,2,0]) cube([1,1,1]);
+translate([0,5,0]) cube([1,1,1]);
+translate([0,6,0]) cube([1,1,1]);
+translate([0,10,0]) cube([1,1,1]);
+translate([0,11,0]) cube([1,1,1]);
+translate([0,14,0]) cube([1,1,1]);
+translate([1,0,0]) cube([1,1,1]);
+translate([1,4,0]) cube([1,1,1]);
+translate([1,7,0]) cube([1,1,1]);
+translate([1,9,0]) cube([1,1,1]);
+translate([1,12,0]) cube([1,1,1]);
+translate([1,14,0]) cube([1,1,1]);
+translate([2,0,0]) cube([1,1,1]);
+translate([2,4,0]) cube([1,1,1]);
+translate([2,7,0]) cube([1,1,1]);
+translate([2,9,0]) cube([1,1,1]);
+translate([2,12,0]) cube([1,1,1]);
+translate([2,14,0]) cube([1,1,1]);
+translate([3,0,0]) cube([1,1,1]);
+translate([3,1,0]) cube([1,1,1]);
+translate([3,2,0]) cube([1,1,1]);
+translate([3,5,0]) cube([1,1,1]);
+translate([3,6,0]) cube([1,1,1]);
+translate([3,10,0]) cube([1,1,1]);
+translate([3,11,0]) cube([1,1,1]);
+translate([3,14,0]) cube([1,1,1]);
+translate([3,15,0]) cube([1,1,1]);
+translate([3,16,0]) cube([1,1,1]);
+}
